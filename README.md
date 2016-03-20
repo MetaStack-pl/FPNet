@@ -1,4 +1,6 @@
 # FPNet
+
+[![Join the chat at https://gitter.im/MetaStack-pl/FPNet](https://badges.gitter.im/MetaStack-pl/FPNet.svg)](https://gitter.im/MetaStack-pl/FPNet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/MetaStack-pl/MetaRouter.svg)](https://travis-ci.org/MetaStack-pl/FPNet)
 [![Join the chat at https://gitter.im/MetaStack-pl/MetaRouter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MetaStack-pl/FPNet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
